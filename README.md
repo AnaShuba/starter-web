@@ -10,4 +10,6 @@ And Bla Bla
 ## GIT Comparisions
 Adding GIT comparisions Lecture
 ## GITHub Content
-Comparision vs Repo 
+Comparision vs Repo
+## Contribution
+Fork the Repo and raise pull request for review 
