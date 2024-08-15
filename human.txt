@@ -1,0 +1,2 @@
+# TEGNOLOGY
+HTML, CSS3, Angular
