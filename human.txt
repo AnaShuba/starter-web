@@ -1,2 +1,5 @@
 # TEGNOLOGY
 HTML, CSS3, Angular
+
+# TEAM
+    <name> AnaShuba <twitter>
