@@ -8,10 +8,14 @@
 
 # THANKS
 
+
     Shuba
+
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
+
     jQuery, Modernizer, AJAX
    
+
