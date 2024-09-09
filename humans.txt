@@ -1,11 +1,13 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
  Hi, I am modifing the file before rebase.
+ 
 # TEAM
 
     AnaShuba
-    DevOps Engineer
-
+    DevOps Engineer Level III
+    IT organization
+     
 # THANKS
 
 
