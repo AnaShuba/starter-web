@@ -10,7 +10,7 @@ And Bla Bla
 ## GIT Comparisions
 Adding GIT comparisions Lecture
 Devops.
-Adding GIT Rebase Lectures in Advance part..
+Adding GIT Rebase Lectures in Advance part. we have done so much of work together.
 ## GITHub Content
 Comparision vs Repo
 ## Contribution
