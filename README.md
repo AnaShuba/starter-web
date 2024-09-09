@@ -9,6 +9,8 @@ This is Git Project, which we are using Sample Project
 And Bla Bla
 ## GIT Comparisions
 Adding GIT comparisions Lecture
+Devops.
+Adding GIT Rebase Lectures in Advance part..
 ## GITHub Content
 Comparision vs Repo
 ## Contribution
